@@ -63,7 +63,7 @@ The project follows **MVC Architecture**:
 ## ▶️ How to Run
 
 1. Clone the repository:
-   git clone https://github.com/your-username/repo-name.git
+   git clone https://github.com/amit9192gupta/inventory-management
 
 2. Open in IDE (IntelliJ / Eclipse)
 
